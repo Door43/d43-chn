@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[chn:home|Door43 (chn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-chn|d43-chn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-chn/archive/master.zip|d43-chn.zip]]
+
+**Recent Changes**
+{{changes>ns = chn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/chn|Ethnologue data]]
+
